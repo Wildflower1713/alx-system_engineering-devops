@@ -1,1 +1,1 @@
-My first commit for shell redirection
+prints "Hello, World"
