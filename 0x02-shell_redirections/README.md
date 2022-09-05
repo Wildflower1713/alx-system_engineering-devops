@@ -1,1 +1,2 @@
-My first commit for shell redirection
+#!/bin/bash
+echo " Hello, World "
