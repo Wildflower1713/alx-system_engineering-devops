@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# This script gives us information about the holbertonschool file.
+# This script gives us information about the bestschool file.
 
-file="holbertonschool"
+file="bestschool"
 if [ -e $file ]; then
 	echo "$file file exists"
 
